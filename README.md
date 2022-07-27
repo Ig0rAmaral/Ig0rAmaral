@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/Ig0rAmaral">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ezavictoria&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ig0rAmaral&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ig0rAmaral&layout=compact&langs_count=16&theme=jolly"/>
 </div>
 
@@ -16,7 +16,6 @@
   <img align="center" alt="Igor-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Igor-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Igor-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img align="right" alt="Igor-gif" height="100" width="100" src="https://i.postimg.cc/GtrXQ0w8/download20220605214831.png">
 </div>
 </div> 
 
