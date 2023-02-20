@@ -1,7 +1,7 @@
 ### Oii, eu sou Igor Carvalho Amaral!! ☺👋
 
 - 💻 Hoje estou em busca de uma oportunidade de estágio
-- 🌱 Estou estudando javaScript, CSS e HTML
+- 🌱 Estudando atualmente sobre testes e qualidade de software (QA)
 - 😉 Pronomes: ele/dele
 
 <div>
