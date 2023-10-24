@@ -1,4 +1,4 @@
-### Oii, eu sou Igor Carvalho Amaral!! ☺👋
+### Olá, eu sou Igor Amaral!! ☺👋
 
 - 💻 Sou analista de testes e qualidade de software (QA)
 - 🌱 Tenho experiência com testes manuais e automatizados (Cypress, Selenium)
